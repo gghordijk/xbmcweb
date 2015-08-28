@@ -1,0 +1,1 @@
+A Javascript library for use with the new XBMC JSON-RPC api
